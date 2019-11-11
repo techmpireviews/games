@@ -1,0 +1,150 @@
+body {
+	background-image: linear-gradient(to right, #91D7EA, #ffffff);
+}
+
+#menu {
+	position: absolute;
+	top: -18px;
+	left: -1px;
+	right: 0px;
+	font-family: sans-serif;
+	background-color: #ffffff;
+	border: solid;
+	border-color: #ffffff;
+    clip-path: circle(25px at 30px 37px);
+	padding: 35px;
+	transition: 0.5s;
+	z-index: 50;
+}
+
+#menu:hover {
+	position: absolute;
+	top: -18px;
+	left: -1px;
+	right: 0px;
+	font-family: sans-serif;
+	border: solid;
+	border-color: #000000;
+	border-bottom-color: #ffffff;
+    clip-path: circle(100%);
+	background-color: #000000;
+	padding: 33px;
+	transition: 0.85s;
+	z-index: 50;
+	cursor: default;
+}
+.a1 {
+	padding: 2px 7px;
+	text-decoration: none;
+	color: #ffffff;
+	border: solid;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 7px;
+	font-size: 25px;
+	transition: 0.5s;
+}
+
+.a1:hover {
+	padding: 2px 7px;
+	text-decoration: none;
+	color: #000000;
+	border: solid;
+	border-color: #ffffff;
+	background-color: #ffffff;
+	border-radius: 15px;
+	font-size: 25px;
+	transition: 0.6s;
+}
+
+#links {
+	position: absolute;
+	margin-left: 48.5%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+
+#menulogo {
+	width: 28px;
+	height: auto;
+	position: absolute;
+	top: 20px;
+	left: 12.5px;
+	cursor: default;
+}
+
+#mainimage {
+	width: 100%;
+	height: 130px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: -1;
+	cursor: default;
+}
+
+#bgimg {
+	width: 97%;
+	height: auto;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	z-index: -10;
+}
+
+#logotop {
+	margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: #ffffff;
+	width: 200px;
+	border-radius: 28px;
+	padding-left: 5px;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+	transition: 0.5s;
+	height: auto;
+	z-index: 1;
+	cursor: default;
+}
+
+#logotop:hover {
+	margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	background-color: #ffffff;
+	width: 200px;
+	border-radius: 28px;
+	padding-left: 5px;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	transform: rotate(5deg);
+	-webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -ms-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+	transition: 0.5s;
+	height: auto;
+	z-index: 1;
+	cursor: default;
+}
+
+#fr1 {
+	margin-top: 75px;
+	border: none;
+}
+
+.middle {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
