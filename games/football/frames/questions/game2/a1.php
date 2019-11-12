@@ -202,7 +202,7 @@
 <?php
 $result= $_POST['game'];
 $result= strtolower($result);
-if ($result<>'Amari Cooper') {
+if ($result<>'amari cooper') {
 	echo '<script>location.href = "q11.php";</script>';
 }
 ?>
