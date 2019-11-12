@@ -12,7 +12,7 @@
 		<div class="search">
 		<b id="q">Trailblazers #0</b>
 		<span class="searchformspan">
-			<form autocomplete="off" id="searchform" action="q1.php" method="post">
+			<form autocomplete="off" id="searchform" action="a1.php" method="post">
 				<input style="margin-top: 5px;" placeholder="player" autocomplete="off" id="searchid" type="text" name="game">
 			</form>
 		</span>
