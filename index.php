@@ -15,7 +15,7 @@
 			<div class="imgtop">
 				<img id="mainimage" src="images/grassbg.png">
 			</div>
-			<a href=""><img id="logotop" src="images/newlogo.png"></a>
+			<a href=""><img id="logotop" src="newlogo.png"></a>
 			<!--<span id="infotop"><div class="textinfo">
 				<img id="searchimg" src="images/searchicon.png">
 				<form autocomplete="off" id="searchform" action="search.php" method="post">
