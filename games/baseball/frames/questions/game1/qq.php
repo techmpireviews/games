@@ -33,7 +33,7 @@
 		z-index: 10;
 	}
 </style>
-	<img id="image" src="images/r2gif.gif">
+	<img id="image" src="images/r2.gif">
 
 
 
