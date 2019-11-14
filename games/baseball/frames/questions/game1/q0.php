@@ -22,7 +22,7 @@
 </style>
 	<b id="innerb">Click Anywhere To Start</b>
 </div>
-	<img id="image" src="images/intro1.gif">
+	<img id="image" src="images/r2gif.gif">
 	<style type="text/css">
 		#innerb {
 			position: relative;
