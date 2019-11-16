@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<script data-ad-client="ca-pub-3239492273967865" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script data-ad-client="ca-pub-1739651486178994" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<title>Sports Games</title>
 	<link rel="icon" href="images/shortbglogo.png">
 	<link rel="stylesheet" type="text/css" href="main.css">
