@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<script data-ad-client="ca-pub-1739651486178994" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-ad-client="ca-pub-1739651486178994" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<title>Sports Games</title>
 	<link rel="icon" href="images/shortbglogo.png">
 	<link rel="stylesheet" type="text/css" href="main.css">
@@ -21,7 +21,7 @@
 				<img id="searchimg" src="images/searchicon.png">
 				<form autocomplete="off" id="searchform" action="search.php" method="post">
 					<input autocomplete="off" id="searchid" type="text" name="search">
-					<style type="text/css">
+			 		<style type="text/css">
 						#searchid {
 							position: absolute;
 							margin-top: -30px;
